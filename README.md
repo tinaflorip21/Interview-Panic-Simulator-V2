@@ -1,7 +1,5 @@
 # Interview-Panic-Simulator-V2
-A Python Tkinter-based interview preparation quiz application with difficulty levels, timer, score tracking, ranking system, and high-score persistence.
-
-# Interview Panic Simulator V2
+A Python Tkinter-based interview preparation quiz application featuring multiple-choice questions, score tracking, progress monitoring, performance rankings, restart functionality, and high-score persistence.
 
 A Python-based GUI application that simulates a technical interview environment.
 
