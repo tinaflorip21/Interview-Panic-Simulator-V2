@@ -3,6 +3,17 @@ A Python Tkinter-based interview preparation quiz application featuring multiple
 
 A Python-based GUI application that simulates a technical interview environment.
 
+## Screenshots
+
+### Home Screen
+![Home](home.png)
+
+### Quiz Screen
+![Quiz](quiz.png)
+
+### Result Screen
+![Result](result.png)
+
 ## Features
 
 * Multiple-choice interview questions
