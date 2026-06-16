@@ -29,6 +29,28 @@ A Python-based GUI application that simulates a technical interview environment.
 * Python
 * Tkinter
 
+## Skills Demonstrated
+
+- Python Programming
+- GUI Development with Tkinter
+- Event-Driven Programming
+- File Handling
+- Data Persistence
+- Problem Solving
+- User Interface Design
+
+## Project Structure
+
+Interview-Panic-Simulator-V2
+├── main.py
+├── questions.py
+├── highscore.txt
+├── home.png
+├── quiz.png
+├── result.png
+├── README.md
+└── .gitignore
+
 ## How to Run
 
 ```bash
